@@ -1,6 +1,1 @@
 
-APPLICATION:
-
-BUS-TIMING-APP
-
-REACTJS -> CHECK DEPENDENCIES-> npm install {dependencies}
