@@ -1,0 +1,20 @@
+{
+  "form": [
+    {
+      "id": 1,
+      "name": "ashwin",
+      "email": "ashwin.dojo@gmail.com",
+      "mobile": "7521545211",
+      "password": "ashwin",
+      "confirmPassword": "ashwin"
+    },
+    {
+      "id": 2,
+      "name": "ashwindojo",
+      "email": "rorditispi@enayu.com",
+      "mobile": "9442036058",
+      "password": "12345",
+      "confirmPassword": "12345"
+    }
+  ]
+}

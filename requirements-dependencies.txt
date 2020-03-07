@@ -1,0 +1,2 @@
+reactstrap -> for bootstarap
+jsons-server -> backend database
